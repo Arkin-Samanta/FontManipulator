@@ -1,0 +1,18 @@
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size: 15px;
+    color: #ffffff;
+}
+.table {
+    border: 2px solid rgb(166, 15, 15);
+    border-collapse: collapse;
+  }
+  .tds { 
+    color: #ffffff;
+    background-color:#383f51;
+  }
